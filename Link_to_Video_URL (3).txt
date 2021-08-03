@@ -1,4 +1,0 @@
-Implementation of Single Source Shortest Path on FPGA using Bellman-Ford algorithm
-
-Link to video URL - 
-https://drive.google.com/file/d/1YuxDx5EZi-UBSnSDmyP1GB7rpo_oOVJW/view?usp=sharing
